@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a9d8610e5775eea63797b8268abf1ad4",
-"assets/AssetManifest.bin.json": "536dff0fed252e5bc8bcda950de217aa",
-"assets/AssetManifest.json": "02219c35246d8b2507ac702338b70680",
+const RESOURCES = {"assets/AssetManifest.bin": "a60158c6408d85597f5a341839e63f98",
+"assets/AssetManifest.bin.json": "d7d33115cd2ed6c8740075106fb3b975",
+"assets/AssetManifest.json": "f58161414bcfec14117a59bf79e051b2",
 "assets/assets/icons/us.png": "ab291a3ffa8e81386f77c94056c06a5b",
 "assets/assets/icons/vn.png": "47e1003cdb97f364c0bafa85503330ec",
 "assets/assets/images/about_us_banner.png": "71e3b885371d22b1083329380c5918fe",
@@ -75,6 +75,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a9d8610e5775eea63797b8268abf1ad4
 "assets/assets/images/recent_scorers/chienloi.jpg": "857d4d097ca1c8995113413c820670ee",
 "assets/assets/images/recent_scorers/haohoang.jpg": "47e58a734fb54fa91d48928efb4b24f6",
 "assets/assets/images/recent_scorers/haule.jpg": "27f58883206b3dac4463ff2c29431e20",
+"assets/assets/images/recent_scorers/hung.jpg": "af6dab0233d5c6b7cb42e7b0cdfe0c1a",
 "assets/assets/images/recent_scorers/nguyenthuy.jpg": "be3c434c5c86c32b7dbad6328b98e776",
 "assets/assets/images/recent_scorers/quanglam.jpg": "e82a5d2f5b731bf04924520223d6b7f1",
 "assets/assets/images/recent_scorers/thoale.jpg": "4f45184a0579e465061278432c167381",
@@ -100,7 +101,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a9d8610e5775eea63797b8268abf1ad4
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "dc1ab8952179cb8791e4c704c30a560e",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "91293097bf613187c013bc40352b8f01",
+"flutter_bootstrap.js": "484b264cfcee8fc4eb55b1bd144e3c0b",
 "icons/Icon-192.png": "da18a325f599482283c79563030ddaeb",
 "icons/Icon-512.png": "f860738f4681cc7e3e2d2c24020693a1",
 "icons/Icon-maskable-192.png": "da18a325f599482283c79563030ddaeb",
